@@ -9,3 +9,5 @@ There have been several changes in this port:
 - Changed the "heart" emoji used for selecting favorites to be a path icon.
 - Fixed trimming support, including System.Text.Json JsonSerializerContext's. This is needed so the app can work on Browser.
 - Added a CORS proxy so the Json from Sessionize can be fetched. This is needed for Browser support as well.
+
+![MyConference](screenshot.png)
